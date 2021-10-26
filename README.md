@@ -7,6 +7,7 @@
 
 ![Royal Brito Git Stats](https://github-readme-stats.vercel.app/api?username=RoyalBrito&show_icons=true&theme=chartreuse-dark)
 
+[![LinkedIn Icon](https://img.shields.io/badge/-LinkedIn-black?style=plasticColor=blue&logo=linkedin&color=blue)](https://www.linkedin.com/in/marcos-brito-867656223/)
 
 <!---
 RoyalBrito/RoyalBrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
