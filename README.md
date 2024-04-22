@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @RoyalBrito or Marcos Paulo de Brito
+# 👋 Hi, I’m @DevBrittus or Marcos Paulo de Brito
 
 - 👀 I’m interested in find my place in this new world of technology
 - 🌱 I’m currently learning programming logic
