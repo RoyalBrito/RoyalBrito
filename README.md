@@ -1,7 +1,7 @@
 # Marcos Paulo de Brito 
 
  # 📋 Sobre mim: 
-Meu nome é Marcos Paulo, sou estudante de Ciências da Computação, sou militar da Força Aérea Brasileira, sou entusiasta da tecnologia, já auxiliei no desenvolvimento de um sistema de Teleatendimento para pacientes do Sistema de Saúde Militar, tenho pouca experiência porém muita vontade de aprender. 
+Meu nome é Marcos Paulo, sou estudante de Ciências da Computação, fui militar da Força Aérea Brasileira, sou entusiasta da tecnologia, já auxiliei no desenvolvimento de um sistema de Teleatendimento para pacientes do Sistema de Saúde Militar, tenho pouca experiência porém muita vontade de aprender. 
 Alguns interesses meus são:
 - ⚽ Esportes
 - 🎮 Videogames
